@@ -20,7 +20,7 @@
     "quick-lint-js-wasm": "../wasm"
   },
   "devDependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "colors": "^1.4.0",
     "jasmine": "^3.7.0",
     "prettier": "^2.3.0"
